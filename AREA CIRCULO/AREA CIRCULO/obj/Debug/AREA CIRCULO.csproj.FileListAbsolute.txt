@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\AREA CIRCULO\AREA CIRCULO\obj\Debug\AREA CIRCULO.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\AREA CIRCULO\AREA CIRCULO\obj\Debug\AREA CIRCULO.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\AREA CIRCULO\AREA CIRCULO\bin\Debug\AREA CIRCULO.exe.config
+C:\Users\sergi\source\repos\AREA CIRCULO\AREA CIRCULO\bin\Debug\AREA CIRCULO.exe
+C:\Users\sergi\source\repos\AREA CIRCULO\AREA CIRCULO\bin\Debug\AREA CIRCULO.pdb
+C:\Users\sergi\source\repos\AREA CIRCULO\AREA CIRCULO\obj\Debug\AREA CIRCULO.exe
+C:\Users\sergi\source\repos\AREA CIRCULO\AREA CIRCULO\obj\Debug\AREA CIRCULO.pdb
