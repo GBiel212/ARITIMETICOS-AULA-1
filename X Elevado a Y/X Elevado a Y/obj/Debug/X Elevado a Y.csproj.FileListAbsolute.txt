@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\X Elevado a Y\X Elevado a Y\bin\Debug\X Elevado a Y.exe.config
+C:\Users\sergi\source\repos\X Elevado a Y\X Elevado a Y\bin\Debug\X Elevado a Y.exe
+C:\Users\sergi\source\repos\X Elevado a Y\X Elevado a Y\bin\Debug\X Elevado a Y.pdb
+C:\Users\sergi\source\repos\X Elevado a Y\X Elevado a Y\obj\Debug\X Elevado a Y.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\X Elevado a Y\X Elevado a Y\obj\Debug\X Elevado a Y.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\X Elevado a Y\X Elevado a Y\obj\Debug\X Elevado a Y.exe
+C:\Users\sergi\source\repos\X Elevado a Y\X Elevado a Y\obj\Debug\X Elevado a Y.pdb

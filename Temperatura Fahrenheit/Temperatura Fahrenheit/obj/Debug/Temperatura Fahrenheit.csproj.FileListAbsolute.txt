@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\Temperatura Fahrenheit\Temperatura Fahrenheit\bin\Debug\Temperatura Fahrenheit.exe.config
+C:\Users\sergi\source\repos\Temperatura Fahrenheit\Temperatura Fahrenheit\bin\Debug\Temperatura Fahrenheit.exe
+C:\Users\sergi\source\repos\Temperatura Fahrenheit\Temperatura Fahrenheit\bin\Debug\Temperatura Fahrenheit.pdb
+C:\Users\sergi\source\repos\Temperatura Fahrenheit\Temperatura Fahrenheit\obj\Debug\Temperatura Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\Temperatura Fahrenheit\Temperatura Fahrenheit\obj\Debug\Temperatura Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Temperatura Fahrenheit\Temperatura Fahrenheit\obj\Debug\Temperatura Fahrenheit.exe
+C:\Users\sergi\source\repos\Temperatura Fahrenheit\Temperatura Fahrenheit\obj\Debug\Temperatura Fahrenheit.pdb

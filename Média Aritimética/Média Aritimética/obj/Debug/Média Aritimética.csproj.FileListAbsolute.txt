@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\Média Aritimética\Média Aritimética\bin\Debug\Média Aritimética.exe.config
+C:\Users\sergi\source\repos\Média Aritimética\Média Aritimética\bin\Debug\Média Aritimética.exe
+C:\Users\sergi\source\repos\Média Aritimética\Média Aritimética\bin\Debug\Média Aritimética.pdb
+C:\Users\sergi\source\repos\Média Aritimética\Média Aritimética\obj\Debug\Média Aritimética.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\Média Aritimética\Média Aritimética\obj\Debug\Média Aritimética.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Média Aritimética\Média Aritimética\obj\Debug\Média Aritimética.exe
+C:\Users\sergi\source\repos\Média Aritimética\Média Aritimética\obj\Debug\Média Aritimética.pdb
