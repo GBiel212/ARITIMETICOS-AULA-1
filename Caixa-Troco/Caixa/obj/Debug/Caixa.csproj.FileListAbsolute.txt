@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\Caixa\Caixa\bin\Debug\Caixa.exe.config
+C:\Users\sergi\source\repos\Caixa\Caixa\bin\Debug\Caixa.exe
+C:\Users\sergi\source\repos\Caixa\Caixa\bin\Debug\Caixa.pdb
+C:\Users\sergi\source\repos\Caixa\Caixa\obj\Debug\Caixa.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\Caixa\Caixa\obj\Debug\Caixa.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Caixa\Caixa\obj\Debug\Caixa.exe
+C:\Users\sergi\source\repos\Caixa\Caixa\obj\Debug\Caixa.pdb

@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\Área Triangulo---Base-altura\Área Triangulo---Base-altura\bin\Debug\Área Triangulo---Base-altura.exe.config
+C:\Users\sergi\source\repos\Área Triangulo---Base-altura\Área Triangulo---Base-altura\bin\Debug\Área Triangulo---Base-altura.exe
+C:\Users\sergi\source\repos\Área Triangulo---Base-altura\Área Triangulo---Base-altura\bin\Debug\Área Triangulo---Base-altura.pdb
+C:\Users\sergi\source\repos\Área Triangulo---Base-altura\Área Triangulo---Base-altura\obj\Debug\Área Triangulo---Base-altura.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\Área Triangulo---Base-altura\Área Triangulo---Base-altura\obj\Debug\Área Triangulo---Base-altura.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Área Triangulo---Base-altura\Área Triangulo---Base-altura\obj\Debug\Área Triangulo---Base-altura.exe
+C:\Users\sergi\source\repos\Área Triangulo---Base-altura\Área Triangulo---Base-altura\obj\Debug\Área Triangulo---Base-altura.pdb

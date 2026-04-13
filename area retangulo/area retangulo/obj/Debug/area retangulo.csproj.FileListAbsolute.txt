@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\area retangulo\area retangulo\bin\Debug\area retangulo.exe.config
+C:\Users\sergi\source\repos\area retangulo\area retangulo\bin\Debug\area retangulo.exe
+C:\Users\sergi\source\repos\area retangulo\area retangulo\bin\Debug\area retangulo.pdb
+C:\Users\sergi\source\repos\area retangulo\area retangulo\obj\Debug\area retangulo.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\area retangulo\area retangulo\obj\Debug\area retangulo.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\area retangulo\area retangulo\obj\Debug\area retangulo.exe
+C:\Users\sergi\source\repos\area retangulo\area retangulo\obj\Debug\area retangulo.pdb
