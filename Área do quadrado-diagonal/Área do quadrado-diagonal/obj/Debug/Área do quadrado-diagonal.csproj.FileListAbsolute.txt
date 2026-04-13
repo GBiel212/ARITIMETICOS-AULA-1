@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\Área do quadrado-diagonal\Área do quadrado-diagonal\bin\Debug\Área do quadrado-diagonal.exe.config
+C:\Users\sergi\source\repos\Área do quadrado-diagonal\Área do quadrado-diagonal\bin\Debug\Área do quadrado-diagonal.exe
+C:\Users\sergi\source\repos\Área do quadrado-diagonal\Área do quadrado-diagonal\bin\Debug\Área do quadrado-diagonal.pdb
+C:\Users\sergi\source\repos\Área do quadrado-diagonal\Área do quadrado-diagonal\obj\Debug\Área do quadrado-diagonal.csproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\Área do quadrado-diagonal\Área do quadrado-diagonal\obj\Debug\Área do quadrado-diagonal.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\Área do quadrado-diagonal\Área do quadrado-diagonal\obj\Debug\Área do quadrado-diagonal.exe
+C:\Users\sergi\source\repos\Área do quadrado-diagonal\Área do quadrado-diagonal\obj\Debug\Área do quadrado-diagonal.pdb
